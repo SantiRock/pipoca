@@ -124,14 +124,14 @@ footer {
 
 }
 
-@media screen and (min-width: 1056px) {
+@media screen and (min-width: 1020px) {
     .main {
         gap: 33px;
     }
     
 }
 
-@media  screen and (min-width: 1069px) {
+@media  screen and (min-width: 1010px) {
     .player {
         margin-top: 21px;
     }
