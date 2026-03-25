@@ -85,7 +85,12 @@ nav{
     gap: 21px;
 }
 
+.sc {
+    width: 100%;
+}
+
 .statment {
+    margin: auto;
     max-width: 500px;
     font-size: 15px;
     text-align: justify;
